@@ -1,0 +1,9 @@
+{
+  "description": "Punch Card",
+  "keywords": [
+    "echarts",
+    "apache"
+  ],
+  "main": "index.html",
+  "name": "Bar3D"
+}
